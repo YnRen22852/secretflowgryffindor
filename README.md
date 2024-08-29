@@ -59,12 +59,12 @@
 2. 隐语所需要的系统环境Ubuntu/WSL2
 3. 隐语所需要的conda环境
 ps：第一条和第二条在[隐语SecretFlow快速开始](https://secret-flow.antgroup.com/docs/secretflow/zh_CN/getting_started/installation.html#)中有详细步骤
-5. PyQt5库
-6. LibreOffice库
-7. pandas库
-8. numpy库
-9. matplotlib库
-10. seaborn库
+4. PyQt5库
+5. LibreOffice库
+6. pandas库
+7. numpy库
+8. matplotlib库
+9. seaborn库
 
 ### **配置步骤**
 
