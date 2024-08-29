@@ -58,7 +58,7 @@
 配置下列[开发前的配置要求](#开发前的配置要求) 第一和第二个环境
 [隐语SecretFlow快速开始](https://secret-flow.antgroup.com/docs/secretflow/zh_CN/getting_started/installation.html#)
 
-###### 开发前的配置要求
+### 开发前的配置要求
 
 1. 隐语所需要的系统环境Ubuntu/WSL2
 2. 隐语所需要的conda环境
@@ -68,7 +68,7 @@ ps：第一条和第二条在上手指南中有详细步骤
 5. 0.6.0版本的flax库
 6. pandas库
 
-###### **安装步骤**
+### **安装步骤**
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
