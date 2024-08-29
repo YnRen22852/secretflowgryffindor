@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/d8ea28bc-bbf0-4558-8d22-e01bdbfd0b6a)
 
 # Neural Network Based on SecretFlow
 
@@ -170,7 +170,7 @@ xxx@xxxx
 [issues-shield]: https://img.shields.io/github/issues/YnRen22852/secretflowgryffindor.svg?style=flat-square
 [issues-url]: https://github.com/YnRen22852/secretflowgryffindor/issues
 [license-shield]: https://img.shields.io/github/license/YnRen22852/secretflowgryffindor.svg?style=flat-square
-[license-url]: https://github.com/YnRen22852/secretflowgryffindor/blob/main/LICENSE.txt
+[license-url]: https://github.com/YnRen22852/secretflowgryffindor/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/shaojintian
 
