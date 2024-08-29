@@ -70,34 +70,36 @@ ps：第一条和第二条在[隐语SecretFlow快速开始](https://secret-flow.
 配置下列隐语的第一和第二个环境可以从这里开始
 [隐语SecretFlow快速开始](https://secret-flow.antgroup.com/docs/secretflow/zh_CN/getting_started/installation.html#)
 1. PyQt5库安装
-`pip install PyQt5`
+```pip install PyQt5```
 2. LibreOffice库安装
-`sudo apt install libreoffice`
+```sudo apt install libreoffice```
 3. pandas库安装
-`pip install pandas`
+```pip install pandas```
 5. numpy库安装
-`pip install numpy`
+```pip install numpy```
 7. matplotlib库安装
-`pip install matplotlib`
+```pip install matplotlib```
 
 ### **快速开始** 
 
-
+1. 将以上环境配置好之后，把仓库clone到本地就可以开始了
+2. 打开图形话界面直接运行
+   
 ### 文件目录说明
 
 ```
 filetree 
 ├── LICENSE
 ├── README.md
-├── /GUI/
+├── /GUI/   #图形化界面
 |  ├── /neural_network_gui.py/
-├── /data/
+├── /data/  #数据处理
 │  ├── /corr_coefficient_matrix.py/
 │  ├── /data_process.py/
 │  ├── /data_visual.py/
 │  ├── /full_table_statistics.py/
 │  ├── /multicollinearity_test.py/
-├── /neural_network/
+├── /neural_network/   #神经网络模型
 │  ├── /mlp.py/
 
 ```
@@ -149,7 +151,3 @@ filetree
 [issues-url]: https://github.com/YnRen22852/secretflowgryffindor/issues
 [license-shield]: https://img.shields.io/github/license/YnRen22852/secretflowgryffindor.svg?style=flat-square
 [license-url]: https://github.com/YnRen22852/secretflowgryffindor/blob/master/LICENSE
-
-
-
-
