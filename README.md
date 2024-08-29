@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/YnRen22852/secretflowgryffindor">
-    <img src="https://img2024.cnblogs.com/blog/3248951/202408/3248951-20240829124619808-424781544.webp" alt="Logo" width="400" height="400">
+    <img src="https://img2024.cnblogs.com/blog/3248951/202408/3248951-20240829124619808-424781544.webp" alt="Logo" width="470" height="350">
   </a>
 
   <h3 align="center">Gryffindor</h3>
@@ -64,6 +64,7 @@ ps：第一条和第二条在[隐语SecretFlow快速开始](https://secret-flow.
 7. pandas库
 8. numpy库
 9. matplotlib库
+10. seaborn库
 
 ### **配置步骤**
 
@@ -75,15 +76,18 @@ ps：第一条和第二条在[隐语SecretFlow快速开始](https://secret-flow.
 ```sudo apt install libreoffice```
 3. pandas库安装
 ```pip install pandas```
-5. numpy库安装
+4. numpy库安装
 ```pip install numpy```
-7. matplotlib库安装
+5. matplotlib库安装
 ```pip install matplotlib```
+6. seaborn库安装
+```pip install seaborn```
 
 ### **快速开始** 
 
 1. 将以上环境配置好之后，把仓库clone到本地就可以开始了
 2. 打开图形话界面直接运行
+   ps：需要激活隐语的环境
    
 ### 文件目录说明
 
