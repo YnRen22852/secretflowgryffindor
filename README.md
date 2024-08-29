@@ -116,7 +116,7 @@ filetree
 
 ### 贡献者
 
-请阅读**CONTRIBUTING.md** 查阅为该项目做出贡献的开发者。
+请阅读[贡献者](https://github.com/YnRen22852/secretflowgryffindor/graphs/contributors) 查阅为该项目做出贡献的开发者。
 
 #### 如何参与开源项目
 
