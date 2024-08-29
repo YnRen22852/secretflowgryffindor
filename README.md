@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/d8ea28bc-bbf0-4558-8d22-e01bdbfd0b6a)
 
 # Neural Network Based on SecretFlow
 
