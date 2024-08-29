@@ -23,14 +23,14 @@
   <p align="center">
     一个使用SecretFlow、MLP模型来进行神经网络训练和预测的项目！
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://github.com/YnRen22852/secretflowgryffindor"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template">查看Demo</a>
+    <a href="https://github.com/YnRen22852/secretflowgryffindor">查看Demo</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">报告Bug</a>
+    <a href="https://github.com/YnRen22852/secretflowgryffindor/issues">报告Bug</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">提出新特性</a>
+    <a href="https://github.com/YnRen22852/secretflowgryffindor/issues">提出新特性</a>
   </p>
 
 </p>
@@ -55,7 +55,7 @@
 
 ### 上手指南
 
-请将所有链接中的“shaojintian/Best_README_template”改为“your_github_name/your_repository”
+请将所有链接中的“YnRen22852/secretflowgryffindor”改为“your_github_name/your_repository”
 
 
 
@@ -70,7 +70,7 @@
 2. Clone the repo
 
 ```sh
-git clone https://github.com/shaojintian/Best_README_template.git
+git clone https://github.com/YnRen22852/secretflowgryffindor.git
 ```
 
 ### 文件目录说明
@@ -102,7 +102,7 @@ filetree
 
 ### 开发的架构 
 
-请阅读[ARCHITECTURE.md](https://github.com/shaojintian/Best_README_template/blob/master/ARCHITECTURE.md) 查阅为该项目的架构。
+请阅读[ARCHITECTURE.md](https://github.com/YnRen22852/secretflowgryffindor/blob/master/ARCHITECTURE.md) 查阅为该项目的架构。
 
 ### 部署
 
@@ -145,7 +145,7 @@ xxx@xxxx
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt)
+该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/YnRen22852/secretflowgryffindor/blob/master/LICENSE.txt)
 
 ### 鸣谢
 
