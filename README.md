@@ -168,7 +168,7 @@ xxx@xxxx
 [issues-shield]: https://img.shields.io/github/issues/YnRen22852/secretflowgryffindor.svg?style=flat-square
 [issues-url]: https://github.com/YnRen22852/secretflowgryffindor/issues
 [license-shield]: https://img.shields.io/github/license/YnRen22852/secretflowgryffindor.svg?style=flat-square
-[license-url]: https://github.com/YnRen22852/secretflowgryffindor/blob/master/LICENSE.txt
+[license-url]: https://github.com/YnRen22852/secretflowgryffindor/blob/master/LICENSE
 
 
 
