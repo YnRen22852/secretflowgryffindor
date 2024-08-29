@@ -161,15 +161,15 @@ xxx@xxxx
 
 <!-- links -->
 [your-project-path]:https://github.com/YnRen22852/secretflowgryffindor
-[contributors-shield]: https://img.shields.io/github/contributors/shaojintian/Best_README_template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/YnRen22852/secretflowgryffindor.svg?style=flat-square
 [contributors-url]: https://github.com/YnRen22852/secretflowgryffindor/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/shaojintian/Best_README_template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/YnRen22852/secretflowgryffindor.svg?style=flat-square
 [forks-url]: https://github.com/YnRen22852/secretflowgryffindor/network/members
-[stars-shield]: https://img.shields.io/github/stars/shaojintian/Best_README_template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/YnRen22852/secretflowgryffindor.svg?style=flat-square
 [stars-url]: https://github.com/YnRen22852/secretflowgryffindor/stargazers
-[issues-shield]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/YnRen22852/secretflowgryffindor.svg?style=flat-square
 [issues-url]: https://github.com/YnRen22852/secretflowgryffindor/issues
-[license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/YnRen22852/secretflowgryffindor.svg?style=flat-square
 [license-url]: https://github.com/YnRen22852/secretflowgryffindor/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/shaojintian
