@@ -28,17 +28,17 @@ def install_package(package_name):
         subprocess.check_call([sys.executable, '-m', 'pip', 'install', package_name, '-q'])
     except subprocess.CalledProcessError as e:
         # 安装出错则打印错误信息
-        print(f"Error occurred while installing {package_name}: {e}")
+        # print(f"Error occurred while installing {package_name}: {e}")
     else:
         # 安装成功后打印成功信息
-        print(f"Successfully installed {package_name}")
+        # print(f"Successfully installed {package_name}")
         return
 
 # 安装0.6.0版本的flax包，用于构建神经网络
 install_package('flax==0.6.0')
 
 # 安装seaborn包，用于数据可视化
-install_package('seaborn')
+# install_package('seaborn')
 
 import seaborn as sns
 from typing import Sequence
