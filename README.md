@@ -21,9 +21,9 @@
     <img src="https://img2024.cnblogs.com/blog/3248951/202408/3248951-20240829124619808-424781544.webp" alt="Logo" width="400" height="400">
   </a>
 
-  <h3 align="center">"完美的"README模板</h3>
+  <h3 align="center">"Neural Network Based on SecretFlow</h3>
   <p align="center">
-    一个"完美的"README模板去快速开始你的项目！
+    一个使用SecretFlow、MLP模型来进行神经网络训练和预测的项目！
     <br />
     <a href="https://github.com/shaojintian/Best_README_template"><strong>探索本项目的文档 »</strong></a>
     <br />
@@ -160,17 +160,17 @@ xxx@xxxx
 - [xxxxxxxxxxxxxx](https://connoratherton.com/loaders)
 
 <!-- links -->
-[your-project-path]:shaojintian/Best_README_template
+[your-project-path]:https://github.com/YnRen22852/secretflowgryffindor
 [contributors-shield]: https://img.shields.io/github/contributors/shaojintian/Best_README_template.svg?style=flat-square
-[contributors-url]: https://github.com/shaojintian/Best_README_template/graphs/contributors
+[contributors-url]: 
 [forks-shield]: https://img.shields.io/github/forks/shaojintian/Best_README_template.svg?style=flat-square
-[forks-url]: https://github.com/shaojintian/Best_README_template/network/members
+[forks-url]: 
 [stars-shield]: https://img.shields.io/github/stars/shaojintian/Best_README_template.svg?style=flat-square
-[stars-url]: https://github.com/shaojintian/Best_README_template/stargazers
+[stars-url]: 
 [issues-shield]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg
+[issues-url]: 
 [license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
-[license-url]: https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt
+[license-url]: 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/shaojintian
 
