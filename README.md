@@ -41,82 +41,71 @@
 ## 目录
 
 - [上手指南](#上手指南)
-  - [开发前的配置要求](#开发前的配置要求)
-  - [安装步骤](#安装步骤)
+  - [运行代码前的环境要求](#运行代码前的环境要求)
+  - [配置步骤](#配置步骤)
+- [快速开始](#快速开始)
 - [文件目录说明](#文件目录说明)
-- [开发的架构](#开发的架构)
-- [部署](#部署)
 - [使用到的框架](#使用到的框架)
 - [贡献者](#贡献者)
   - [如何参与开源项目](#如何参与开源项目)
-- [版本控制](#版本控制)
-- [作者](#作者)
+- [版权说明](#版权说明)
 - [鸣谢](#鸣谢)
 
-### 上手指南
 
-配置下列[开发前的配置要求](#开发前的配置要求) 第一和第二个环境
+## **上手指南** 
+### **运行代码前的环境要求**
+
+1. python3
+2. 隐语所需要的系统环境Ubuntu/WSL2
+3. 隐语所需要的conda环境
+ps：第一条和第二条在[隐语SecretFlow快速开始](https://secret-flow.antgroup.com/docs/secretflow/zh_CN/getting_started/installation.html#)中有详细步骤
+5. PyQt5库
+6. LibreOffice库
+7. pandas库
+8. numpy库
+9. matplotlib库
+
+### **配置步骤**
+
+配置下列隐语的第一和第二个环境可以从这里开始
 [隐语SecretFlow快速开始](https://secret-flow.antgroup.com/docs/secretflow/zh_CN/getting_started/installation.html#)
+1. PyQt5库安装
+`pip install PyQt5`
+2. LibreOffice库安装
+`sudo apt install libreoffice`
+3. pandas库安装
+`pip install pandas`
+5. numpy库安装
+`pip install numpy`
+7. matplotlib库安装
+`pip install matplotlib`
 
-### 开发前的配置要求
+### **快速开始** 
 
-1. 隐语所需要的系统环境Ubuntu/WSL2
-2. 隐语所需要的conda环境
-ps：第一条和第二条在上手指南中有详细步骤
-3. seaborn库
-4. pyqt5库
-5. 0.6.0版本的flax库
-6. pandas库
-
-### **安装步骤**
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-
-```sh
-git clone https://github.com/YnRen22852/secretflowgryffindor.git
-```
 
 ### 文件目录说明
-eg:
 
 ```
 filetree 
-├── ARCHITECTURE.md
-├── LICENSE.txt
+├── LICENSE
 ├── README.md
-├── /account/
-├── /bbs/
-├── /docs/
-│  ├── /rules/
-│  │  ├── backend.txt
-│  │  └── frontend.txt
-├── manage.py
-├── /oa/
-├── /static/
-├── /templates/
-├── useless.md
-└── /util/
+├── /GUI/
+|  ├── /neural_network_gui.py/
+├── /data/
+│  ├── /corr_coefficient_matrix.py/
+│  ├── /data_process.py/
+│  ├── /data_visual.py/
+│  ├── /full_table_statistics.py/
+│  ├── /multicollinearity_test.py/
+├── /neural_network/
+│  ├── /mlp.py/
 
 ```
 
 
-
-
-
-### 开发的架构 
-
-请阅读[ARCHITECTURE.md](https://github.com/YnRen22852/secretflowgryffindor/blob/master/ARCHITECTURE.md) 查阅为该项目的架构。
-
-### 部署
-
-暂无
-
 ### 使用到的框架
 
-- [xxxxxxx](https://getbootstrap.com)
-- [xxxxxxx](https://jquery.com)
-- [xxxxxxx](https://laravel.com)
+- [隐语SecretFlow](https://secret-flow.antgroup.com/)
 
 ### 贡献者
 
@@ -133,20 +122,7 @@ filetree
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
-### 版本控制
-
-该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
-
-### 作者
-
-xxx@xxxx
-
-知乎:xxxx  &ensp; qq:xxxxxx    
-
- *您也可以在贡献者名单中参看所有参与该项目的开发者。*
-
+   
 ### 版权说明
 
 该项目签署了Apache License 2.0授权许可，详情请参阅 [LICENSE](https://github.com/YnRen22852/secretflowgryffindor/blob/master/LICENSE)
@@ -159,7 +135,7 @@ xxx@xxxx
 - [Choose an Open Source License](https://choosealicense.com)
 - [GitHub Pages](https://pages.github.com)
 - [Animate.css](https://daneden.github.io/animate.css)
-- [xxxxxxxxxxxxxx](https://connoratherton.com/loaders)
+- [隐语](https://secret-flow.antgroup.com/)
 
 <!-- links -->
 [your-project-path]:https://github.com/YnRen22852/secretflowgryffindor
