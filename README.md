@@ -1,8 +1,8 @@
 
 
-# ProjectName
+# Neural Network Based on SecretFlow
 
-ProjectName and Description
+This project leverages the SecretFlow framework to implement multi-party secure computing, aimed at predicting whether the annual income of city residents exceeds 50k through collaborative data training. The project involves collaboration between three government agencies within the city and utilizes a Multi-Layer Perceptron (MLP) model for neural network training and prediction. To ensure data accuracy and reliability, comprehensive statistical analyses were conducted, including Variance Inflation Factor (VIF) tests and correlation matrix analysis, with the results visualized through histograms, pie charts, and other methods. Additionally, a graphical user interface (GUI) was developed to enhance the usability and intuitiveness of the project. This project not only demonstrates the practical application potential of privacy-preserving technologies but also provides a secure and efficient solution for data sharing and collaboration among government departments.
 
 <!-- PROJECT SHIELDS -->
 
@@ -16,10 +16,8 @@ ProjectName and Description
 <!-- PROJECT LOGO -->
 <br />
 
-<p align="center">
-  <a href="https://github.com/shaojintian/Best_README_template/">
-    <img src="[images/logo.png](https://img2024.cnblogs.com/blog/3248951/202408/3248951-20240829124619808-424781544.webp)" alt="Logo" width="80" height="80">
-  </a>
+
+  ![logo](https://img2024.cnblogs.com/blog/3248951/202408/3248951-20240829124619808-424781544.webp)
 
   <h3 align="center">"完美的"README模板</h3>
   <p align="center">
