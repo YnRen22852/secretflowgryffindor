@@ -71,22 +71,28 @@ ps：第一条和第二条在[隐语SecretFlow快速开始](https://secret-flow.
 配置下列隐语的第一和第二个环境可以从这里开始
 [隐语SecretFlow快速开始](https://secret-flow.antgroup.com/docs/secretflow/zh_CN/getting_started/installation.html#)
 1. PyQt5库安装
-```pip install PyQt5
+```
+pip install PyQt5
 ```
 3. LibreOffice库安装
-```sudo apt install libreoffice
+```
+sudo apt install libreoffice
 ```
 5. pandas库安装
-```pip install pandas
+```
+pip install pandas
 ```
 7. numpy库安装
-```pip install numpy
+```
+pip install numpy
 ```
 9. matplotlib库安装
-```pip install matplotlib
+```
+pip install matplotlib
 ```
 11. seaborn库安装
-```pip install seaborn
+```
+pip install seaborn
 ```
 
 ### **快速开始** 
