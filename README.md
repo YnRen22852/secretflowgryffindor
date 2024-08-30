@@ -72,23 +72,23 @@ ps：第一条和第二条在[隐语SecretFlow快速开始](https://secret-flow.
 ```
 pip install PyQt5
 ```
-3. LibreOffice库安装
+2. LibreOffice库安装
 ```
 sudo apt install libreoffice
 ```
-5. pandas库安装
+3. pandas库安装
 ```
 pip install pandas
 ```
-7. numpy库安装
+4. numpy库安装
 ```
 pip install numpy
 ```
-9. matplotlib库安装
+5. matplotlib库安装
 ```
 pip install matplotlib
 ```
-11. seaborn库安装
+6. seaborn库安装
 ```
 pip install seaborn
 ```
