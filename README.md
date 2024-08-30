@@ -1,5 +1,5 @@
 
-# Gryffindor
+# 隐语智链·深网(FlowSecureMLP)
 
 本项目使用SecretFlow框架实现了多方安全计算，旨在通过联合数据训练，预测城市居民的年收入是否超过50k。该项目由城市内的三个政府机构合作进行，运用了多层感知器（MLP）模型来进行神经网络训练和预测。为了确保数据的准确性和可靠性，我们进行了全面的统计分析，包括多重共线性检验（VIF）和相关系数矩阵分析，并通过直方图、饼图等可视化方式呈现数据分析结果。此外，我们还开发了一个图形用户界面（GUI），使项目的操作更加简便直观。该项目的实施不仅体现了隐私保护技术在现实中的应用潜力，同时也为政府部门间的数据共享与合作提供了安全、高效的解决方案。
 
@@ -12,9 +12,11 @@
 [![MIT License][license-shield]][license-url]
 <!-- PROJECT LOGO -->
 <br />
-  <h3 align="center"><font size="10"><b>Gryffindor</b></font></h3>
+  <h3 align="center"><font size="10"><b>隐语智链·深网(FlowSecureMLP)</b></font></h3>
   <p align="center">
-    一个使用SecretFlow、MLP模型来进行神经网络训练和预测的项目！
+    一个使用SecretFlow、MLP模型来进行神经网络训练和预测的项目！  
+    <br />
+    Team:Gryffindor
     <br />
     <a href="https://github.com/YnRen22852/secretflowgryffindor"><strong>探索本项目的文档 »</strong></a>
     <br />
