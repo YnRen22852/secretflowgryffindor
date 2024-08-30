@@ -23,7 +23,7 @@ class MainWindow(QMainWindow):
         super().__init__()
 
         # 设置主窗口标题和尺寸
-        self.setWindowTitle("Gryffindor - Neural Network Based on SecretFlow")
+        self.setWindowTitle("隐语智链·深网 (FlowSecureMLP)")
         self.setGeometry(100, 100, 1000, 800)  # 增加窗口尺寸
 
         # 创建堆栈窗口用于页面切换
