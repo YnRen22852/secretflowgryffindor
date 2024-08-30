@@ -61,7 +61,7 @@ ps：第一条和第二条在[隐语SecretFlow快速开始](https://secret-flow.
 
 ### **配置步骤**
 
-配置下列隐语的第一和第二个环境可以从这里开始
+配置隐语的第一和第二个环境可以从这里开始
 [隐语SecretFlow快速开始](https://secret-flow.antgroup.com/docs/secretflow/zh_CN/getting_started/installation.html#)
 1. PyQt5库安装
 ```
