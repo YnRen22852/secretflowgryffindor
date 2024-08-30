@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 
-  <h3 align="center">Gryffindor</h3>
+  <h3 align="center"><font size="10"><b>Gryffindor</b></font></h3>
   <p align="center">
     一个使用SecretFlow、MLP模型来进行神经网络训练和预测的项目！
     <br />
