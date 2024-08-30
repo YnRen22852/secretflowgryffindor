@@ -94,17 +94,17 @@ pip install seaborn
 
 1. 数据预处理、统计分析以及可视化  
 1.1. 数据预处理  
-我们主要使用了隐语SecretFlow库里的隐私求交（PSI）技术对齐数据（`secret_psi`函数），得到对齐后的数据框。然后我们对数据集进行缺失值填充（`Missing_Value_Filling`函数），标签编码（`label_encode_function`函数），有序类别特征处理（`Ordinal_Cate_Features`函数），One-Hot 编码（`One_Hot_Function`函数），标准化（`standard_scaler_func`函数），再经过从VDataFrame到SPUObject格式的数据类型转换（`vdataframe_to_spu`函数和`convert_to_spu`函数），这样可以在SPU上进行计算。
-以上步骤被汇总到数据处理总函数`data_process`函数中。
+我们主要使用了隐语SecretFlow库里的隐私求交（PSI）技术对齐数据（`secret_psi`函数），得到对齐后的数据框。然后我们对数据集进行缺失值填充（`Missing_Value_Filling`函数），标签编码（`label_encode_function`函数），有序类别特征处理（`Ordinal_Cate_Features`函数），One-Hot 编码（`One_Hot_Function`函数），标准化（`standard_scaler_func`函数），再经过从VDataFrame到SPUObject格式的数据类型转换（`vdataframe_to_spu`函数和`convert_to_spu`函数），这样可以在SPU上进行计算。  
+以上步骤被汇总到数据处理总函数`data_process`函数中。  
 1.2. 数据统计分析  
-我们主要使用了隐语SecretFlow库里的函数做了对于数据的全表统计分析（`full_table_statistics`函数）、相关系数矩阵分析（`correlation_coefficient_matrix`函数）、VIF多重共线性检验（`VIF_calculation`函数）
+我们主要使用了隐语SecretFlow库里的函数做了对于数据的全表统计分析（`full_table_statistics`函数）、相关系数矩阵分析（`correlation_coefficient_matrix`函数）、VIF多重共线性检验（`VIF_calculation`函数）  
 1.3. 数据可视化  
-我们主要使用了seaborn库里的相关函数对数据分别做了直方图、条形图以及饼图。
-详见`data_visualize`函数
+我们主要使用了seaborn库里的相关函数对数据分别做了直方图、条形图以及饼图。  
+详见`data_visualize`函数  
 2. 训练  
-我们分别实现了在CPU上和SPU上的神经网络训练（`train_auto_grad`函数和`train_auto_grad_spu`函数），相比于在CPU上的用明文数据进行训练，我们通过使用隐语SecretFlow库的SPU，实现了在SPU上的训练。
+我们分别实现了在CPU上和SPU上的神经网络训练（`train_auto_grad`函数和`train_auto_grad_spu`函数），相比于在CPU上的用明文数据进行训练，我们通过使用隐语SecretFlow库的SPU，实现了在SPU上的训练。  
 3. 预测  
-我们分别实现了在CPU上和SPU上的神经网络预测（`predict`函数和`predict_spu`函数），相比于在CPU上的用明文数据进行预测，我们通过使用隐语SecretFlow库的SPU，实现了在SPU上的预测，这样做可以做到数据隐私保护，分布式安全计算，确保了透明性和可追溯性。
+我们分别实现了在CPU上和SPU上的神经网络预测（`predict`函数和`predict_spu`函数），相比于在CPU上的用明文数据进行预测，我们通过使用隐语SecretFlow库的SPU，实现了在SPU上的预测，这样做可以做到数据隐私保护，分布式安全计算，确保了透明性和可追溯性。  
 
 ### **快速开始** 
 
