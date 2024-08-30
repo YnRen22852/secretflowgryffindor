@@ -38,7 +38,7 @@ class MainWindow(QMainWindow):
         self.main_layout = QVBoxLayout(self.main_page)
 
         # 显示参赛题目（占据主界面高度的30%）
-        self.topic_label = QLabel(" Neural Network Based on SecretFlow", self)
+        self.topic_label = QLabel(" 隐语智链·深网 (FlowSecureMLP)", self)
         self.topic_label.setAlignment(Qt.AlignCenter)
         self.topic_label.setFont(QFont("黑体", 24, QFont.Bold))  # 保持字体为黑体，大小24
         self.topic_label.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.MinimumExpanding)
