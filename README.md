@@ -14,11 +14,6 @@
 <!-- PROJECT LOGO -->
 <br />
 
-<p align="center">
-  <a href="https://github.com/YnRen22852/secretflowgryffindor">
-    <img src="https://img2024.cnblogs.com/blog/3248951/202408/3248951-20240829124619808-424781544.webp" alt="Logo" width="470" height="350">
-  </a>
-
   <h3 align="center">Gryffindor</h3>
   <p align="center">
     一个使用SecretFlow、MLP模型来进行神经网络训练和预测的项目！
