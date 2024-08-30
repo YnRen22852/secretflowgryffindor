@@ -50,7 +50,7 @@
 
 1. python3
 2. 隐语所需要的系统环境Ubuntu/WSL2
-3. 隐语所需要的conda环境
+3. 隐语所需要的conda环境  
 ps：第一条和第二条在[隐语SecretFlow快速开始](https://secret-flow.antgroup.com/docs/secretflow/zh_CN/getting_started/installation.html#)中有详细步骤
 4. PyQt5库
 5. LibreOffice库
@@ -91,7 +91,7 @@ pip install seaborn
 ### **快速开始** 
 
 1. 将以上环境配置好之后，把仓库clone到本地就可以开始了
-2. 打开图形话界面直接运行
+2. 打开图形话界面直接运行  
    ps：需要激活隐语的环境
    
 ### 文件目录说明
