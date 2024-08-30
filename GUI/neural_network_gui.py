@@ -101,9 +101,9 @@ class MainWindow(QMainWindow):
         self.sub_function4_button.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Expanding)
 
         # 连接子功能按钮点击事件
-        self.sub_function1_button.clicked.connect(lambda: self.show_output_page("secretflowgryffindor/data/full_table_statistics.py", "Full Table Statistics Output"))
-        self.sub_function2_button.clicked.connect(lambda: self.show_output_page("secretflowgryffindor/data/multicollinearity_test.py", "VIF Multicollinearity Test Output"))
-        self.sub_function3_button.clicked.connect(lambda: self.show_output_page("secretflowgryffindor/data/corr_coefficient_matrix.py", "Correlation Coefficient Matrix Output"))
+        self.sub_function1_button.clicked.connect(lambda: self.show_output_page("secretflowgryffindor/secretflowgryffindor/data/full_table_statistics.py", "Full Table Statistics Output"))
+        self.sub_function2_button.clicked.connect(lambda: self.show_output_page("secretflowgryffindor/secretflowgryffindor/data/multicollinearity_test.py", "VIF Multicollinearity Test Output"))
+        self.sub_function3_button.clicked.connect(lambda: self.show_output_page("secretflowgryffindor/secretflowgryffindor/data/corr_coefficient_matrix.py", "Correlation Coefficient Matrix Output"))
         self.sub_function4_button.clicked.connect(self.show_data_visual_page)
 
     def show_function1(self):
