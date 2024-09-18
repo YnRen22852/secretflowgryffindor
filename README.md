@@ -14,7 +14,7 @@
 <br />
   <h3 align="center"><font size="10"><b>隐语智链·深网(FlowSecureMLP)</b></font></h3>
   <p align="center">
-    一个使用SecretFlow、MLP模型来进行神经网络训练和预测的项目！  
+    一个使用SecretFlow框架和MLP模型来进行神经网络训练和预测的项目！  
     <br />
     Team:Gryffindor
     <br />
