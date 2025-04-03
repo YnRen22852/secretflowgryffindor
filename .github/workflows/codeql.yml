@@ -18,7 +18,8 @@ on:
     branches: [ "main" ]
   schedule:
     - cron: '20 12 * * 3'
-
+  workflow_dispatch:  # 允许手动触发工作流
+  
 jobs:
   analyze:
     name: Analyze (${{ matrix.language }})
